@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "pathlib-cli"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+version = "0.1.2"
+description = "Command line interface for subset of Python's pathlib library to filter for parts of filenames and paths"
+authors = ["Ben Skubi <skubi@ohsu.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

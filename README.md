@@ -1,0 +1,1 @@
+Pathlib-cli is a command line interface to a subset of the Python pathlib library used to extract parts of paths.

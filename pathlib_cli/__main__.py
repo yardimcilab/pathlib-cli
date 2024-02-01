@@ -98,7 +98,6 @@ def suffix(paths, ignore_errors):
 # Helper functions for specific path operations
 def get_nth_prefix(file_path, n):
     parts = file_path.stem.split('.')
-    print(parts)
     if n < len(parts):
         return parts[n]
     else:
